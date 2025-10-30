@@ -1,0 +1,4 @@
+project_id = "xnuntkidfigvyxietcvd"
+
+[functions.generate-timetable]
+verify_jwt = true
